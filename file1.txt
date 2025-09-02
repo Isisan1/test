@@ -1,7 +1,5 @@
 1234
-
 YOOI
-
 HELLO BRO
-Add line
 Echo for add text,dont forget about >>
+Edditing by Gitbush 
